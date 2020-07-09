@@ -6,7 +6,7 @@ import PortfolioItem from './PortfolioItem';
 
 const useStyles = makeStyles({
     root: {
-        marginBottom: '80px'
+        paddingBottom: '80px'
     }, 
   });
 export default () => {
@@ -17,7 +17,7 @@ export default () => {
         {projectData.map(item => {
             return (
             <Grid item xs={6} key={item.title}>
-                <PortfolioItem project={item} key={item.title}/>
+                <PortfolioItem project={item} key={item.title} color="secondary" />
             </Grid>
             )
         })}
