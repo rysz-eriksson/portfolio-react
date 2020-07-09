@@ -9,7 +9,7 @@ function App() {
   return (
     <React.Fragment>
       <CssBaseline />
-      <Container maxWidth="lg">
+      <Container maxWidth="md">
         <Header />
         <PortfolioContainer />
       </Container>
