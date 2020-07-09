@@ -15,7 +15,7 @@ export default [{
 }, {
 	title: 'E-commerce shop',
 	description: 'Design and implementation of online shop prototype',
-	technologies: ['JavaScript', 'Webpack', 'SASS'],
+	technologies: ['JavaScript', 'Webpack', 'SASS', 'RWD'],
 	pageUrl: 'https://www.rwolosiuk.pl/stuptuty/',
     codeUrl: 'https://github.com/rysz-eriksson/stuptuty',
     imageUrl: '/images/stuptuty.png'
