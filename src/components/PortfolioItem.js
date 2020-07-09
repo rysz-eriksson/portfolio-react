@@ -10,7 +10,6 @@ import { Typography } from '@material-ui/core';
 
 const useStyles = makeStyles({
     root: {
-        // backgroundColor: "rgba(203, 186, 159, .3)",
         backgroundColor: "#FFEBED",
 
     },
@@ -26,7 +25,6 @@ const useStyles = makeStyles({
     },
     chipItem: {
         margin: '0.3em 0.2em',
-        // backgroundColor: "rgb(203, 186, 159)"
         backgroundColor: "#EACDC2",
     },
     buttonContainer: {

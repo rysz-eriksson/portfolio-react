@@ -9,6 +9,9 @@ import IconsPanel from './components/IconsPanel'
 
 const theme = createMuiTheme({
   palette: {
+    background: {
+      default: '#FEECD0'
+    },
     secondary: {
       main: '#372549'
     }

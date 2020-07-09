@@ -16,7 +16,7 @@ export default () => {
         <Grid container spacing={3} className={classes.root}>
         {projectData.map(item => {
             return (
-            <Grid item xs={6} key={item.title}>
+            <Grid item xs={12} sm={6} key={item.title}>
                 <PortfolioItem project={item} key={item.title} color="secondary" />
             </Grid>
             )
