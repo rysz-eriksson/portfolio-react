@@ -26,4 +26,11 @@ export default [{
 	pageUrl: 'https://www.rwolosiuk.pl/restaurant/',
     codeUrl: 'https://github.com/rysz-eriksson/layouts',
     imageUrl: '/images/restaurant.png'
+}, {
+	title: 'Portfolio',
+	description: 'Design and implementation of this website',
+	technologies: ['React', 'Material-UI'],
+	pageUrl: 'https://rysz-eriksson.web.app/',
+    codeUrl: 'https://github.com/rysz-eriksson/portfolio-react',
+    imageUrl: '/images/portfolio.png'
 }]

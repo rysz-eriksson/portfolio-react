@@ -55,7 +55,7 @@ export default (props) => {
             })}</div>
         </CardContent>
             <CardActions className={classes.buttonContainer}>
-                <Button color="secondary" variant="contained" href={project.pageUrl} target="_blank">Go to page</Button>
+                <Button color="secondary" variant="contained" href={project.pageUrl} disabled={project.title === 'Portfolio'} target="_blank">Go to page</Button>
                 <Button color="secondary" variant="contained" href={project.codeUrl} target="_blank">See code</Button>
             </CardActions>
         </Card>
