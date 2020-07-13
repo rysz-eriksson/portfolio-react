@@ -1,7 +1,7 @@
 export default [{
 	title: 'Conference CMS',
 	description: 'Design and implementation of Content Management System to update database and fetch info from it in real-time',
-	technologies: ['React', 'Styled components', 'Firebase', 'REST API', 'async programming', 'database'],
+	technologies: ['React', 'Styled components', 'Firebase', 'REST API', 'async programming', 'NoSQL database'],
 	pageUrl: 'https://conference-cms-react.web.app/',
     codeUrl: 'https://github.com/rysz-eriksson/conference-cms-react',
     imageUrl: '/images/conf-cms.png',
