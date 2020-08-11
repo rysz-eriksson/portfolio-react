@@ -11,14 +11,15 @@ import { Typography } from '@material-ui/core';
 const useStyles = makeStyles({
     root: {
         backgroundColor: "#FFEBED",
-        height: '100%'
+        height: '100%',
+        position: 'relative'
 
     },
     media: {
         paddingTop: '56.25%',
     }, 
     chipContainer: {
-        margin: '1em 0',
+        margin: '1em 0 3.5em 0',
         display: 'flex',
         justifyContent: 'space-around',
         flexWrap: 'wrap',
@@ -29,7 +30,9 @@ const useStyles = makeStyles({
         backgroundColor: "#EACDC2",
     },
     buttonContainer: {
-        padding: "1em"
+        position: 'absolute',
+        bottom: '8px',
+        padding: '0 8px'
     }
   });
 
