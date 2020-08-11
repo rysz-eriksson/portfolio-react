@@ -7,7 +7,7 @@ import PortfolioItem from './PortfolioItem';
 const useStyles = makeStyles({
     root: {
         paddingBottom: '80px'
-    }, 
+    }
   });
 export default () => {
     const [ projectData ] = useState([...projectInfo])
