@@ -1,4 +1,11 @@
 export default [{
+	title: 'Chat App',
+	description: 'Design and implementation of front-end client of chat room for real-time communication',
+	technologies: ['React', 'Websockets', 'Hooks', 'Material-UI', '3-rd party libraries', 'Heroku'],
+	pageUrl: 'http://rysz-react-chat.herokuapp.com/',
+    codeUrl: 'https://github.com/rysz-eriksson/react-chat-app',
+    imageUrl: '/images/react-chat-app.png',
+}, {
 	title: 'Conference CMS',
 	description: 'Design and implementation of Content Management System to update database and fetch info from it in real-time',
 	technologies: ['React', 'Styled components', 'Firebase', 'REST API', 'async programming', 'NoSQL database'],
