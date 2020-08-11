@@ -1,7 +1,7 @@
 export default [{
 	title: 'Chat App',
 	description: 'Design and implementation of front-end client of chat room for real-time communication',
-	technologies: ['React', 'Websockets', 'Hooks', 'Material-UI', '3-rd party libraries', 'Heroku'],
+	technologies: ['React', 'Websockets', 'Hooks', 'Material-UI', '3-rd party React libraries', 'Heroku'],
 	pageUrl: 'http://rysz-react-chat.herokuapp.com/',
     codeUrl: 'https://github.com/rysz-eriksson/react-chat-app',
     imageUrl: '/images/react-chat-app.png',
