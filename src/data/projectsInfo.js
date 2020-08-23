@@ -1,17 +1,17 @@
 export default [{
+	title: 'Conference CMS',
+	description: 'Design and implementation of Content Management System to update database and fetch info from it in real-time',
+	technologies: ['React', 'Hooks', 'Styled components', 'auth with back-end', 'REST API', 'Firebase', 'NoSQL database'],
+	pageUrl: 'https://conference-cms-react.web.app/',
+    codeUrl: 'https://github.com/rysz-eriksson/conference-cms-react',
+    imageUrl: '/images/conf-cms.png',
+}, {
 	title: 'Chat App',
 	description: 'Design and implementation of front-end client of chat room for real-time communication',
 	technologies: ['React', 'Websockets', 'Hooks', 'Material-UI', '3-rd party React libraries', 'Heroku'],
 	pageUrl: 'http://rysz-react-chat.herokuapp.com/',
     codeUrl: 'https://github.com/rysz-eriksson/react-chat-app',
     imageUrl: '/images/react-chat-app.png',
-}, {
-	title: 'Conference CMS',
-	description: 'Design and implementation of Content Management System to update database and fetch info from it in real-time',
-	technologies: ['React', 'Styled components', 'Firebase', 'REST API', 'async programming', 'NoSQL database'],
-	pageUrl: 'https://conference-cms-react.web.app/',
-    codeUrl: 'https://github.com/rysz-eriksson/conference-cms-react',
-    imageUrl: '/images/conf-cms.png',
 }, {
 	title: 'Weather App',
 	description: 'Implementation of website displaying weather conditions and map info based on location or search (including voice search)',
